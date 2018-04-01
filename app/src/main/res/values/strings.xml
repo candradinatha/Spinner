@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dipta Stadium</string>
+    <string name="keterangan_total">Tiket anda berhasil dipesan. Total transaksi dari pesanan anda adalah sejumlah nominal berikut. Lanjutkan ke proses pembayaran dengan menekan tombol Bayar Tiket</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
